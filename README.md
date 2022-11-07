@@ -7,6 +7,6 @@
 
 Here are some ideas to get you started:
 
-- 👨‍💻 Link to my portfolio website [beeb.page](beeb.page)
+- 👨‍💻 Link to my portfolio website [beeb.page](https://beeb.page)
 - 📫 How to reach me: **beebdev@gmail.com**
 - 😄 Pronouns: He/Him
